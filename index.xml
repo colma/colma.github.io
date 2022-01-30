@@ -1,0 +1,9 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jummi</title>
+    <link>https://jummi.fi/</link>
+    <description>Recent content on Jummi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jummi.fi/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
